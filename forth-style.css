@@ -522,7 +522,7 @@ margin-left: 30px;
     display: flex;
     margin-left: 150px;
     flex-direction: column;
-    width: 100%;
+    width: 103%;
   }  
   .pera-con2{
     display: none;
@@ -559,7 +559,6 @@ margin-left: 30px;
 
 
 
-
   footer{
     height: auto;
     width: 105%;
@@ -569,6 +568,9 @@ margin-left: 30px;
 }
 .line-content{
 margin-left: 30px;
+display: flex;
+flex-wrap: wrap;
+margin-left: 50px;
 }
 .ftrcon2{
     margin-left: 30px;
@@ -578,6 +580,12 @@ margin-left: 30px;
 }
 .ftrcon5{
     margin-left: -60px;
+}
+.ftr1{
+  margin-left: 20px;
+}
+.Bar{
+  margin-left: 50px;
 }
 .content{
     color: white;

@@ -999,24 +999,28 @@ z-index: 10;
     }
     .first{
         height: auto;
-        width: 100%;
+        width: 105%;
         background-size: cover;
         margin: 0;
+        /* margin-left: 10px; */
     }
     .first-con{
 position: relative;
 top: 80px;
-left: -1px;
+left: 10px;
 
 }
 .reliable{
     font-size: 25px;
-    width: 94%;
+    width: 100%;
 }
 .form{
     margin: 0;
     margin-top: -60px;
     margin-left: 10px;
+}
+.key{
+    width: 105%;
 }
 .section1{
     width: 100%;
@@ -1024,8 +1028,8 @@ left: -1px;
 
 }
 .section1 img{
-    width: 90%;
-    margin:10px -10px 10px 10px ;
+    width: 85%;
+    margin:10px -10px 10px 25px ;
 }
 .section2{
     width: 100%;
@@ -1033,8 +1037,8 @@ left: -1px;
 
 }
 .section2 img{
-    width: 90%;
-     margin:10px -10px 10px 10px ;
+    width: 85%;
+     margin:10px -10px 10px 25px ;
 }
 .section3{
     width: 100%;
@@ -1042,8 +1046,8 @@ left: -1px;
 
 }
 .section3 img{
-    width: 90%;
-     margin:10px -10px 10px 10px ;
+    width: 85%;
+     margin:10px -10px 10px 25px ;
 }
 .section4{
     width: 100%;
@@ -1051,8 +1055,8 @@ left: -1px;
 
 }
 .section4 img{
-    width: 90%;
-     margin:10px -10px 10px 10px ;
+    width: 85%;
+      margin:10px -10px 10px 25px ;
 }
 .looking{
     display: none;
@@ -1062,24 +1066,31 @@ left: -1px;
 }
 .multi{
     margin-top: 900px;
-    width: 100%;
+    width: 105%;
     height: auto;
 }
 .happy{
 height: auto;
+width: 105%;
 }
 .industries{
     margin-top: -50px;
+    width: 105%;
 }
-.indi-img{
+
+
+.indi-img img{
     margin-left: -180px;
+    width: 330px;
+
 }
 .indi-pera{
     margin-left: -170px;
-   width:350px ;
+   width:315px ;
 }
 .query{
     margin-top: 400px;
+    margin-left: 8px;
 
 }
 .query-con{
@@ -1087,12 +1098,13 @@ height: auto;
     flex-direction: column;
     height: auto;
     width: 94%;
-    margin-left: 6px;
+    margin-left: 8px;
     padding-bottom: -80px;
+    background-size: ;
 }
 .asked{
     height: auto;
-    width: 100%;
+    width: 105%;
 }
 .app1{
     width: 100%;
@@ -1133,16 +1145,17 @@ height: auto;
     width: 100%;
 }
 .have{
-    width: 80%;
+    width: 85%;
     margin-left: 5px;
     margin-bottom: 30px;
+
     display: flex;
     flex-direction: column;
 }
 
 footer{
     height: auto;
-    width: 100%;
+    width: 105%;
     display: flex;
     flex-direction: column;
 }

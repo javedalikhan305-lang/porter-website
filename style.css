@@ -820,8 +820,9 @@ margin-left: 30px;
     width: 125%;
     position: relative;
     padding-bottom: 200px;
-    left: 20px;
-    top: 90px;
+    left: 27px;
+    top: 89px;
+
    
     height: 600px;
     margin: 26% 0px 0px -120px;
@@ -982,6 +983,7 @@ footer{
     height: auto;
     width: 100%;
     display: flex;
+    margin-left: 2px;
     flex-direction: column;
 }
 .line-content{
